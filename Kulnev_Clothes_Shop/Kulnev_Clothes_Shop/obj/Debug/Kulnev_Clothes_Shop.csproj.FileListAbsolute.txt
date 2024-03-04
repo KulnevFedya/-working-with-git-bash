@@ -1,0 +1,12 @@
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\bin\Debug\Kulnev_Clothes_Shop.exe.config
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\bin\Debug\Kulnev_Clothes_Shop.exe
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\bin\Debug\Kulnev_Clothes_Shop.pdb
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.csproj.AssemblyReference.cache
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.csproj.SuggestedBindingRedirects.cache
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.Authorization_form.resources
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.MainForm.resources
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.Properties.Resources.resources
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.csproj.GenerateResource.cache
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.csproj.CoreCompileInputs.cache
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.exe
+D:\4 курс\demoekz\Kulnev_Clothes_Shop\Kulnev_Clothes_Shop\obj\Debug\Kulnev_Clothes_Shop.pdb
