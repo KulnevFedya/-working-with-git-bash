@@ -1,27 +1,4 @@
-<h1 align="center">Отчёт по работе с консолью Git Bash</h1>
-\\This is an example of backslash\\
-
-\*This is an example of asterisk\*
-
-\`This is an example of backtick\`
-
-\_This is an example of underscore\_
-
-\{This is an example of curly braces\}
-
-\[This is an example of square brackets\]
-
-\(This is an example of parentheses\)
-
-\#This is an example of hash mark\#
-
-\+This is an example of plus sign\+
-
-\-This is an example of minus sign (hyphen)\-
-
-\.This is an example of dot\.
-
-\!This is an example of exclamation mark\!
+<h1 align="center">Отчёт по работе с консолью Git Bash📺</h1>
 
 В локальной папке на компьютере открываю консоль *Git Bash* и прописываю следующиую функцию:
 ```
