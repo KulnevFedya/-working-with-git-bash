@@ -1,5 +1,5 @@
 <h1 align="center">Отчёт по работе с консолью Git Bash</h1>
-**<font color="purple">Важно!</font>**
+<span style="color:blue">some *blue* text</span>.
 
 В локальной папке на компьютере открываю консоль *Git Bash* и прописываю следующиую функцию:
 ```
