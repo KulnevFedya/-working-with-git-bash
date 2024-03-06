@@ -1,4 +1,4 @@
-![image](https://github.com/KulnevFedya/-working-with-git-bash/assets/127484484/d9cb5ac3-e2ce-46ab-9868-6cb88a941b4a)#Отчёт по работе с консолью Git Bash
+# Отчёт по работе с консолью Git Bash
 
 В локальной папке на компьютере открываю консоль Git Bash и прописываю следующиую функцию:
 ```
