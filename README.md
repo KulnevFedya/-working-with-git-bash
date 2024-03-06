@@ -17,6 +17,7 @@ git commit -m “Моё первое сообщение коммита“
 git push origin master
 ```
 ![image](https://github.com/KulnevFedya/-working-with-git-bash/assets/127484484/02306c13-64a0-4950-a077-7b067d4ec184)
+
 Чтобы проверить каталог коммитов использую команду:
 ```
 git log
