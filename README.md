@@ -1,5 +1,4 @@
 <h1 align="center">Отчёт по работе с консолью Git Bash</h1>
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
 В локальной папке на компьютере открываю консоль *Git Bash* и прописываю следующиую функцию:
 ```
