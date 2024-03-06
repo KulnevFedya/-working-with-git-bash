@@ -1,11 +1,4 @@
 <h1 align="center">Отчёт по работе с консолью Git Bash</h1>
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 В локальной папке на компьютере открываю консоль *Git Bash* и прописываю следующиую функцию:
 ```
